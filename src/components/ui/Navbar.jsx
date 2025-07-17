@@ -28,7 +28,7 @@ const Navbar = () => {
       </div>
 
       <div className="flex items-center gap-6 text-sm">
-        <Link to="/login" className="hover:underline">
+        <Link to="/" className="hover:underline">
           Login
         </Link>
         <Link
